@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ardaax
-- 👀 I’m interested in Machine Learning and especially Natural Langugae Processing.
+- 👋 Hi, I’m @ardaax, an Informatics student from Munich.
+- 👀 I’m interested in Natural Langugae Processing.
 - 🌱 I’m currently learning HuggingFace 🤗
-- 📫 How to reach me, you can contact me: arda.andirin@tum.de
+- 📫 How to reach me? You can contact me: arda.andirin@tum.de
 
 <!---
 ardaax/ardaax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
